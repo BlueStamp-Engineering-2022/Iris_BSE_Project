@@ -24,4 +24,4 @@ My starter project was the TV-B gone project. It was built by soldering all the 
 
 
 
-[![Starter Project](https://youtu.be/B9ZocvpEhuI "Starter Project"){:target="_blank" rel="noopener"}
+[![Starter Project](https://i3.ytimg.com/vi/B9ZocvpEhuI/maxresdefault.jpg)](https://youtu.be/B9ZocvpEhuI "Starter Project"){:target="_blank" rel="noopener"}
