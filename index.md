@@ -11,8 +11,7 @@
 My Third milestone is making the claw spin. I used CAD(using a software to generate a 3d design) to design new parts to hold the extra servo. I used a caliper to measure the original parts to make sure my new parts match the size of the original and then I added the code to spin the fifth servo and added the new control buttons to the app. I enjoyed learning how to use CAD and designing the pieces but I struggled with the measurements since it was my first time using CAD: for example I had to file down the insides of the box that contains my claw since I accidentally made the box too thick.
 
  
-
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658902480/video_to_markdown/images/youtube--_HX5xgwmU1E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/_HX5xgwmU1E "Milestone 3")
 
 # Second Milestone
 My second milestone is the bluetooth control of the robot arm. I wired the bluetooth module to the arduino and used MIT app inventor to make an app to control the robot. When you press the controls on the app, it sends a bluetooth signal to the output stream which will get picked up by the bluetooth module connected to the arduino. At first, I struggled with getting the arm to move because even when the serial monitor showed that it was receiving input from the app, the arm wouldn’t move: I realized that this was because I was changing the position of the servo by such a small amount and I wasn't using a while loop. My final step will be to use CAD to add modifications to the robot claw.
